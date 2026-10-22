@@ -1,0 +1,5 @@
+# Recorded library versions from the Colab metadata.
+# Install a PyTorch CUDA build appropriate for the chosen runtime separately.
+transformers==5.20.1
+accelerate==1.15.0
+huggingface-hub==1.33.0

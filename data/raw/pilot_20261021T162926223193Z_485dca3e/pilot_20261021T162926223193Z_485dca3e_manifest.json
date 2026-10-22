@@ -1,0 +1,7 @@
+{
+  "data/pilot_20261021T162926223193Z_485dca3e_case.json": "8f93b5ffd8e9dda033e0efd169a96b02862c5a63caa84cb243ea6af09bf4a5dc",
+  "data/pilot_20261021T162926223193Z_485dca3e_rubric.json": "c4e92a3fe2cb0ba7a449096f53c0d02d333634565dd4a4f9c8a4c72d9e449a16",
+  "results/raw/pilot_20261021T162926223193Z_485dca3e_responses.jsonl": "a9bd308ebe433fe88daf92d00b1714711b9a63c0fee4cdbbcad6f0a49a6b7b8f",
+  "results/raw/pilot_20261021T162926223193Z_485dca3e_metadata.json": "ece217f28ef0bfd76df7873cd48714f02f54a5ce09bf992f4cb00aede752d38a",
+  "results/scored/pilot_20261021T162926223193Z_485dca3e_human_scores.csv": "855f163d911cdb522681c2f23966292586ceaad90f1368026ba90504ef00dc22"
+}

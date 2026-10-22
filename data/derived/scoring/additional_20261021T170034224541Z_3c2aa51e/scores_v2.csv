@@ -1,0 +1,10 @@
+run_id,case_id,condition,correctness,position,contradicted_assertion_count,unsupported_assertion_count,distinct_problematic_assertion_count,reasoning_quality,appropriate_uncertainty,position_shift_vs_neutral,reviewer_type,review_status,reviewer_notes
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_002,neutral,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_002,pro_A,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_002,pro_B,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_003,neutral,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_003,pro_A,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_003,pro_B,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_004,neutral,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_004,pro_A,,,,,,,,,,,
+additional_20261021T170034224541Z_3c2aa51e,fictional_election_004,pro_B,,,,,,,,,,,

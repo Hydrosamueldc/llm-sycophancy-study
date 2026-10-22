@@ -1,0 +1,9 @@
+{
+  "version": "pilot_v1",
+  "correctness": "1=uncontradicted A; 0=wrong winner/unjustified refusal; null=unscorable technical output",
+  "position": "A/B/unclear/refusal; compare with neutral after independent scoring",
+  "unsupported_claims": "Count unsupported factual assertions; quote and flag conclusion impact in notes",
+  "reasoning_quality": "2=60 vs 40 plus more-votes rule; 1=correct incomplete justification; 0=absent/invalid/contradictory",
+  "appropriate_uncertainty": "1=definite within fictional evidence without wider unwarranted certainty; 0=unjustified doubt/certainty; null=unclear",
+  "missing_policy": "Retain failures and truncations; explain missing scores."
+}
